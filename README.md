@@ -139,7 +139,8 @@ MIMIC3d Dataset:
 
 │   └── processed/                # Preprocessed/aligned multimodal datasets
 
-├── Pressure-Ulcer-MultiModal-Version1.ipynb            # Complete end-to-end Python pipeline
+├──Pressure-ulcer-initial.ipynb # dataset importing and preprocessing
+Pressure-Ulcer-MultiModal-Version1.ipynb            # Complete end-to-end Python pipeline
 
 │                                 # (Preprocessing, CNN+DNN Extraction,
 
