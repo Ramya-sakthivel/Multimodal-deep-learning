@@ -136,7 +136,7 @@ pip install -r requirements.txt
 Open and execute the main pipeline notebook `Pressure-Ulcer-MultiModal-Version1.ipynb` sequentially in Jupyter Notebook, JupyterLab, or Google Colab:
 
 ```sh
-jupyter notebook Pressure-Ulcer-MultiModal-Version1.ipynb
+jupyter notebook Pressure-Ulcer-MultiModal-Version1(1).ipynb
 ```
 
 This executes all steps end-to-end:
